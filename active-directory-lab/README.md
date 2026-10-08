@@ -1,4 +1,3 @@
-<img width="1007" height="801" alt="Screenshot 2026-10-08 154444" src="https://github.com/user-attachments/assets/cc1f9cea-4a9e-428c-bf67-262cd259ba9c" /># Active Directory Home Lab
 
 ## Environment
 - Hyper-V on Windows host
