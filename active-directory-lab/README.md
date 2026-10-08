@@ -47,4 +47,8 @@ These are the most common Level 1 help desk tickets in any organization. Masteri
 -<img width="1007" height="801" alt="Screenshot 2026-10-08 154444" src="https://github.com/user-attachments/assets/228a6b7f-0c80-4076-9f3e-ffe8c0c65b8a" />
 - <img width="991" height="781" alt="Screenshot 2026-10-08 154502" src="https://github.com/user-attachments/assets/4ba2db33-1078-470e-b061-7855e4772721" />
 
+- [Screenshot 6: Account Unlock using powershell]
+- <img width="909" height="769" alt="image" src="https://github.com/user-attachments/assets/21c1aaf7-fa9a-4c4d-86b3-a3e38b21b14f" />
+
+
 
